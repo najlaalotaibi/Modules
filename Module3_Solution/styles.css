@@ -1,0 +1,30 @@
+  .navbar-default .navbar-brand {
+    color: black;
+    font-weight: 50;
+    font-size: x-large;
+    margin: 15px 0px 15px;
+  }
+  
+  .navbar-header button.navbar-toggle,
+  .navbar-header .icon-bar {
+    border: 5px solid black;
+  }
+  
+  li {
+    background-color: #8b8787;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: large;
+  }
+  
+  .navbar-default .navbar-nav > li > a {
+    color: black;
+  }
+  
+  section {
+    margin-top: 30px;
+    background-color: lightgray;
+    height: 100px;
+    line-height: 5;
+  }
+  
